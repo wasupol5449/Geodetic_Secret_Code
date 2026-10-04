@@ -7,8 +7,6 @@ Before running the Jupyter Notebooks in this project, please install the require
 
 ```bash
 uv add pandas numpy pyproj pygeodesy geodepy
-'''
-
 
 # Traverse Past Exam 2025
 👉 [Traverse on Ellipsoid (Past Paper 2025) Code](Traverse_Past_Exam.ipynb)

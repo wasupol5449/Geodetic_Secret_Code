@@ -5,8 +5,9 @@
 
 Before running the Jupyter Notebooks in this project, please install the required dependencies. If you use `uv` for your Python environment, you can install everything at once using the following command:
 
-```bash
-uv add pandas numpy pyproj pygeodesy geodepy```
+```bash 
+uv add pandas numpy pyproj pygeodesy geodepy
+```
 
 # Traverse Past Exam 2025
 👉 [Traverse on Ellipsoid (Past Paper 2025) Code](Traverse_Past_Exam.ipynb)

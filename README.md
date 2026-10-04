@@ -9,6 +9,13 @@ Before running the Jupyter Notebooks in this project, please install the require
 uv add pandas numpy pyproj pygeodesy geodepy
 ```
 
+Alternatively, if you are using Miniconda or Anaconda, you can use the following commands:
+
+```bash 
+conda install -c conda-forge pandas numpy pyproj -y
+pip install pygeodesy geodepy
+```
+
 # Traverse Past Exam 2025
 👉 [Traverse on Ellipsoid (Past Paper 2025) Code](Traverse_Past_Exam.ipynb)
 
